@@ -1,0 +1,6 @@
+本例子是activiti和springboot结合的操作，
+## c参考文档地址1https://my.oschina.net/u/930279/blog/793281
+## 参考文档地址2http://wiselyman.iteye.com/blog/2285223
+## 官方文档地址http://www.mossle.com/docs/activiti/index.html#N1007D
+本例子也就没事玩玩。。试试activi流程，发现最好用eclipse开发，因为流程图正在intellij idea开发环境中不能友好显示
+出现乱码网上有教程修改启动文件家utf-8就好，流程图不能友好显示，没有结果办法，只能等拉！
